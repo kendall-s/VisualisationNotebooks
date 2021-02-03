@@ -10,6 +10,8 @@ Repo for random assortments of jupyter notebooks that I have used for visualisin
 
 - DO Commission: Lengthy analysis and statistical analysis to verify that new dissolved oxygen analysers are working as well as the existing instrument before being commissioned for use on RV Investigator
 
+- Eddy Shipboard ADCP: Extracting and visualising the shipboard ADCP data across a frontal eddy
+
 - SOTS data with MU: Short visualisation to compare historical nutrinet data collected at the SOTS mooring site. Added in shaded bands to depict the calculated measurement uncertainty for each sample collected
 
 - Lengthy statistical and modelling analysis of the Hydrochemistry team's pipettes and volumetrics with outputs feeding into the bottom up calculation of measurement uncertainty
