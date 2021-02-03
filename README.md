@@ -1,5 +1,5 @@
 # VisualisationNotebooks
-Repo for random assortments of jupyter notebooks that I have used for visualising different datasets
+Repo for random assortments of jupyter notebooks that I have used for visualising different datasets. Some of these notebooks are a little big for Github to render, so if you want to view them download and run jupyter notebook :)
 
 
 ## Contents:
